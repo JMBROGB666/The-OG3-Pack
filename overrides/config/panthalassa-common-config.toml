@@ -1,0 +1,9 @@
+
+[general]
+	#This boolean value will determine whether or not the Panthalassa Journal (Guide Book) is given to players when they first join the server
+	give_journal = true
+	#This boolean value will determine whether the crush depth mechanic is enabled within Panthalassa
+	crush_depth = false
+	#This boolean value will determine whether entities will try and avoid walls when randomly swimming
+	random_swimming_avoid = false
+

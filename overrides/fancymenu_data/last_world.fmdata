@@ -1,7 +1,0 @@
-type = last_world
-
-last_world {
-  is_server = true
-  world = 86.191.69.53:25565
-}
-

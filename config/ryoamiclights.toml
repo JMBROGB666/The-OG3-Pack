@@ -1,0 +1,63 @@
+
+[light_sources]
+	entities = true
+	self = true
+	block_entities = true
+	water_sensitive_check = true
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				player = true
+				bat = true
+				glow_squid = true
+				skeleton = true
+				villager = true
+				arrow = true
+				cat = true
+				item = true
+				squid = true
+				spider = true
+				creeper = true
+				horse = true
+				zombie = true
+				armor_stand = true
+				enderman = true
+				sheep = true
+				cave_spider = true
+
+			[light_sources.settings.entities.alexsmobs]
+				cockroach = true
+				crow = true
+				bison = true
+				skunk = true
+				bald_eagle = true
+				gelada_monkey = true
+
+			[light_sources.settings.entities.guardvillagers]
+				guard = true
+
+			[light_sources.settings.entities.mekanismadditions]
+				baby_skeleton = true
+				baby_enderman = true
+
+			[light_sources.settings.entities.iceandfire]
+				fire_dragon = true
+
+			[light_sources.settings.entities.takesapillage]
+				clay_golem = true
+
+			[light_sources.settings.entities.friendsandfoes]
+				rascal = true
+
+			[light_sources.settings.entities.irons_spellbooks]
+				priest = true
+				guiding_bolt = true
+				wisp = true
+				necromancer = true
+
+			[light_sources.settings.entities.quark]
+				toretoise = true
+

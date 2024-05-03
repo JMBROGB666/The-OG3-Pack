@@ -3,11 +3,11 @@
 	#determines how often will Burneds spawn
 	"Burned Weight" = 20
 	#determines how often will Frostbittens spawn
-	"Frostbitten Weight" = 80
+	"Frostbitten Weight" = 60
 	#determines how often will Glacial Hunters spawn
 	"Glacial Hunter Weight" = 20
 	#determines how often will Swampies spawn
-	"Swampy Weight" = 80
+	"Swampy Weight" = 70
 	#determines how often will Undead Miners spawn
 	"Undead Miner Weight" = 20
 	#determines how often will Mummies spawn

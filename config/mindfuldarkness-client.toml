@@ -11,7 +11,7 @@ menu_blacklist = []
 #End a path using '*' as a wildcard char to include every file (no nested directories) from that directory.
 #Begin with a namespace or skip namespace to apply to all namespaces.
 #Begin with '!' to exclude matches, list those exclusions after entries that would otherwise include them.
-paths = ["textures/gui/*", "!minecraft:textures/gui/icons.png", "!minecraft:textures/gui/options_background.png", "textures/gui/container/*", "minecraft:textures/gui/container/creative_inventory/*", "trinkets:textures/gui/slots/*", "craftingtweaks:gui.png", "dankstorage:textures/container/gui/*", "ae2:textures/guis/*"]
+paths = ["textures/gui/*", "!minecraft:textures/gui/icons.png", "!minecraft:textures/gui/widgets.png", "!minecraft:textures/gui/toasts.png", "!minecraft:textures/gui/bars.png", "!minecraft:textures/gui/book.png", "!minecraft:textures/gui/options_background.png", "textures/gui/container/*", "!minecraft:textures/gui/container/creative_inventory/*", "trinkets:textures/gui/slots/*", "!essential:*", "craftingtweaks:gui.png", "dankstorage:textures/container/gui/*", "ae2:textures/guis/*"]
 #Use a dark theme for the configuration screens.
 dark_theme = false
 #Percentage of original interface brightness to apply.

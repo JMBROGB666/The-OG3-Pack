@@ -15,7 +15,7 @@
 	wanderingHordes = false
 	#How often in seconds we set a random point around a player for mobs to wander to from far away. Makes mobs path around more, dont use if you have TPS performance issues.
 	#Range: > 0
-	frequencyOfWanderingHordesPerPlayer = 30
+	frequencyOfWanderingHordesPerPlayer = 0
 	#How loud sounds should be when you are alerted that a mob is coming to investigate an area near you
 	#Range: 4.9E-324 ~ 1.7976931348623157E308
 	soundVolumeInvestigate = 0.5

@@ -1786,7 +1786,7 @@
 	Backpack = true
 	"Tiny Potato" = true
 	"Matrix Enchanting" = true
-	"Totem Of Holding" = true
+	"Totem Of Holding" = false
 	Crate = true
 	Magnets = true
 

@@ -6,7 +6,7 @@
 		# The average distance between structures of this type, measured in chunks.
 		# Default: 40
 		#Range: > 1
-		spacing = 40
+		spacing = 50
 		#
 		# A random offset applied to spacing. Values closer to 0 produce a grid effect while values closer to spacing are more random.
 		# Default: 35

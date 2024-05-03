@@ -5,11 +5,11 @@
 		#Set Fullscreen mode
 		#Borderless let you change between screens more faster and move your mouse across monitors
 		#Allowed Values: WINDOWED, BORDERLESS, FULLSCREEN
-		fullscreen = "WINDOWED"
+		fullscreen = "BORDERLESS"
 		#Configure FPS Display mode
 		#Complete mode gives you min FPS count and average count
 		#Allowed Values: OFF, SIMPLE, ADVANCED
-		fpsDisplay = "ADVANCED"
+		fpsDisplay = "SIMPLE"
 		#Configure FPS Display gravity
 		#Places counter on specified corner of your screen
 		#Allowed Values: LEFT, CENTER, RIGHT
@@ -159,7 +159,7 @@
 	[embeddiumplus.others]
 		#Configure if borderless fullscreen option should be attached to F11 or replace vanilla fullscreen
 		#Allowed Values: ATTACH, REPLACE, OFF
-		borderlessAttachModeOnF11 = "ATTACH"
+		borderlessAttachModeOnF11 = "REPLACE"
 		#Toggles fast language reload
 		#Embeddedt points it maybe cause troubles to JEI, so ¿why not add it as a toggleable option?
 		fastLanguageReload = true
@@ -167,7 +167,7 @@
 	[embeddiumplus.dynlights]
 		#Configure how fast light whould be updated
 		#Allowed Values: OFF, SLOW, NORMAL, FAST, SUPERFAST, FASTESTS, REALTIME
-		updateSpeed = "REALTIME"
+		updateSpeed = "OFF"
 		#Toggle if Entities should have dynamic lights
 		onEntities = true
 		#Toggle if Block Entities should have dynamic lights

@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "minecraft:creeper",
+    "maxcount": 10,
+    "result": "deny"
+  }
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "minecraft:skeleton",
+    "maxcount": 10,
+    "result": "deny"
+  }
+]

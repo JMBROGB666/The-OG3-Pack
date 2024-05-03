@@ -3,7 +3,7 @@
 'legs' : '',
 'feet' : '',
 'offhand' : '{Count:1b,id:"minecraft:torch"}',
-0 : '{Count:1b,id:"minecraft:wooden_sword",tag:{Damage:0}}',
+0 : '{Count:1b,id:"minecraft:wooden_axe",tag:{Damage:0}}',
 1 : '{Count:2b,id:"minecraft:bread"}',
 2 : '',
 3 : '',

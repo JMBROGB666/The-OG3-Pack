@@ -1,0 +1,26 @@
+{
+  "minecraft:wooden_axe": {
+    "attackDamage": 3.0,
+    "attackSpeed": 2.0
+  },
+  "minecraft:stone_axe": {
+    "attackDamage": 5.0,
+    "attackSpeed": 0.8
+  },
+  "minecraft:iron_axe": {
+    "attackDamage": 9.0,
+    "attackSpeed": 0.9
+  },
+  "minecraft:golden_axe": {
+    "attackDamage": 7.0,
+    "attackSpeed": 1.0
+  },
+  "minecraft:diamond_axe": {
+    "attackDamage": 9.0,
+    "attackSpeed": 1.0
+  },
+  "minecraft:netherite_axe": {
+    "attackDamage": 10.0,
+    "attackSpeed": 1.0
+  }
+}

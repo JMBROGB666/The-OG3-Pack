@@ -11,7 +11,16 @@ menu_blacklist = ["hexerei:*", "corpse:*"]
 #End a path using '*' as a wildcard char to include every file (no nested directories) from that directory.
 #Begin with a namespace or skip namespace to apply to all namespaces.
 #Begin with '!' to exclude matches, list those exclusions after entries that would otherwise include them.
-paths = ["textures/gui/*", "!minecraft:textures/gui/icons.png", "!jeresources:textures/*", "!jei:textures/*", "!minecraft:textures/gui/accessibility.png", "!minecraft:textures/gui/world_selection.png", "!minecraft:textures/gui/resource_packs.png", "!minecraft:textures/gui/server_selection.png", "!minecraft:textures/gui/checkbox.png", "!minecraft:textures/gui/widgets.png", "!minecraft:textures/item/*", "!minecraft:textures/map/*", "!minecraft:textures/gui/advancements/*", "!minecraft:textures/gui/toasts.png", "!minecraft:textures/gui/bars.png", "!minecraft:textures/gui/book.png", "!minecraft:textures/gui/options_background.png", "textures/gui/container/*", "!minecraft:textures/gui/container/stats_icons.png", "!minecraft:textures/gui/container/creative_inventory/*", "trinkets:textures/gui/slots/*", "craftingtweaks:gui.png", "dankstorage:textures/container/gui/*", "ae2:textures/guis/*", "!ad_astra:*", "!alexsmobs:*", "!buildersdelight:*", "!cofh_core:*", "!cookingforblockheads:*", "!craftingtweaks:*", "!create:*", "!ftbquests:*", "!immersiveengineering:*", "!industrialforegoing:*", "!inventoryhud:*", "!jeresources:*", "!mekanism:*", "!mekanismgenerators:*", "!mysticalagriculture:*", "!polymorph:*", "!rftoolsbase:*", "!rftoolsbuilder:*", "!rfttoolscontrol:*", "!rftoolspower:*", "!rftoolsstorage:*", "!rftoolsutillity:*", "!securitycraft:*", "!spirit:*", "!storagenetwork:*", "!supplementaries:*", "!tconstruct:*", "!thermal:*", "!titanium:*", "!trashcans:*", "!waystones:*", "!woodworks:*"]
+paths = ["textures/gui/*", "textures/gui/container/*", "trinkets:textures/gui/slots/*", "craftingtweaks:gui.png", "dankstorage:textures/container/gui/*", "ae2:textures/guis/*",
+"!minecraft:textures/gui/icons.png", "!jeresources:textures/*", "!jei:textures/*", "!minecraft:textures/gui/accessibility.png", 
+"!minecraft:textures/gui/world_selection.png", "!minecraft:textures/gui/resource_packs.png", "!minecraft:textures/gui/server_selection.png", "!minecraft:textures/gui/checkbox.png", 
+"!minecraft:textures/gui/widgets.png", "!minecraft:textures/item/*", "!minecraft:textures/map/*", "!minecraft:textures/gui/advancements/*", "!minecraft:textures/gui/toasts.png", 
+"!minecraft:textures/gui/bars.png", "!minecraft:textures/gui/book.png", "!minecraft:textures/gui/options_background.png",  
+"!minecraft:textures/gui/container/stats_icons.png", "!minecraft:textures/gui/container/creative_inventory/*",  "!ad_astra:*", "!alexsmobs:*", "!buildersdelight:*", 
+"!cofh_core:*", "!cookingforblockheads:*", "!craftingtweaks:*", "!create:*", "!ftbquests:*", "!immersiveengineering:*", "!industrialforegoing:*", 
+"!inventoryhud:*", "!jeresources:*", "!mekanism:*", "!mekanismgenerators:*", "!mysticalagriculture:*", "!polymorph:*", "!rftoolsbase:*", 
+"!rftoolsbuilder:*", "!rfttoolscontrol:*", "!rftoolspower:*", "!rftoolsstorage:*", "!rftoolsutillity:*", "!securitycraft:*", "!spirit:*", 
+"!storagenetwork:*", "!supplementaries:*", "!tconstruct:*", "!thermal:*", "!titanium:*", "!trashcans:*", "!waystones:*", "!woodworks:*"]
 dark_theme = false
 #Percentage of original interface brightness to apply.
 #Range: 0.0 ~ 1.0

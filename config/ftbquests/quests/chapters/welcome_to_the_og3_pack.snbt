@@ -1,7 +1,7 @@
 {
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
-	filename: "welcome_to_bmc_forge_1192"
+	filename: "welcome_to_the_og3_pack"
 	group: ""
 	icon: {
 		Count: 1b
@@ -35,8 +35,8 @@
 			id: "6A52090D6BC064D7"
 			rewards: [{
 				count: 3
-				id: "23E9D524A593C171"
-				item: "buzzier_bees:honey_bread"
+				id: "49B29CAD7AC72E33"
+				item: "farmersdelight:bacon_sandwich"
 				type: "item"
 			}]
 			size: 2.0d
@@ -85,8 +85,8 @@
 					type: "checkmark"
 				}
 				{
-					id: "0A064E9F0021E5CA"
-					item: "buzzier_bees:honey_bread"
+					id: "7C467F8FB72059A0"
+					item: "farmersdelight:bacon_sandwich"
 					type: "item"
 				}
 			]
@@ -144,13 +144,13 @@
 				""
 				"Press &bU &rwhile hovering over an item to view its Uses"
 				""
-				"Press &bZ &rto Crawl"
+				"Press &bC &rto Crawl"
 				""
 				"Press &bRight Click &rwhile crouching to hold a block. (Useful for chests, doesn't work on all blocks)"
 				""
 				"Hold &b~ &rwhile using a tool with the Vein Mining enchant to activate Vein Mining"
 				""
-				"Press &bC &rto Zoom"
+				"Press &bALT &rto Zoom"
 				""
 				"Press &bM &rto open the World Map"
 				""
@@ -235,8 +235,6 @@
 				"The tutorial is now &afinished&r! "
 				""
 				"To view the rest of the quests, put your cursor to the left of the screen and expand the &6Quest Groups&r. "
-				""
-				"Feel free to join our &bDiscord &rfor any other questions you may have: https://lunapixel.studio/discord"
 			]
 			hide: true
 			icon: {
@@ -282,11 +280,18 @@
 				}
 			]
 			subtitle: "Read my description!"
-			tasks: [{
-				id: "3B2CC7DEE30E3AB8"
-				title: "&aTutorial Complete!"
-				type: "checkmark"
-			}]
+			tasks: [
+				{
+					id: "3B2CC7DEE30E3AB8"
+					title: "&aTutorial Complete!"
+					type: "checkmark"
+				}
+				{
+					id: "2D20511EB601BE63"
+					item: "minecraft:iron_ingot"
+					type: "item"
+				}
+			]
 			x: 1.5d
 			y: -1.5d
 		}

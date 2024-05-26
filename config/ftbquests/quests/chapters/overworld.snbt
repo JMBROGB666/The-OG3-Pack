@@ -114,17 +114,23 @@
 		{
 			id: "20691E23C90FB48F"
 			rewards: [{
-				count: 10
+				count: 20
 				id: "3AEC0856A09A5C02"
 				item: "minecraft:netherite_ingot"
 				type: "item"
 			}]
 			subtitle: "Kill Him!!"
 			tasks: [{
-				entity: "cave_dweller:cave_dweller"
-				icon: "abundant_atmosphere:wild_cave_parsnip"
+				entity: "pale_hound:pale_hound"
+				icon: {
+					Count: 1b
+					id: "whisperwoods:hirschgeist_skull"
+					tag: {
+						Damage: 0
+					}
+				}
 				id: "420398D241DE1778"
-				title: "Cave Dweller"
+				title: "The Pale Hound"
 				type: "kill"
 				value: 100L
 			}]

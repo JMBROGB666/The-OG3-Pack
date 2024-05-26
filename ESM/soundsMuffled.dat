@@ -1,0 +1,12 @@
+{
+  "pale_hound:hound_hurt_4": 0.0,
+  "pale_hound:chase_4": 0.5058692893401016,
+  "pale_hound:chase_step_3": 0.5041759510330742,
+  "pale_hound:chase_step_4": 0.5092559659541561,
+  "pale_hound:chase_step_1": 0.5075626276471288,
+  "pale_hound:chase_step_2": 0.5041759510330742,
+  "pale_hound:hound_death": 0.5041759510330742,
+  "pale_hound:hound_hurt_2": 0.502482612726047,
+  "pale_hound:disappear": 0.5058692893401016,
+  "pale_hound:hound_hurt_1": 0.5058692893401016
+}

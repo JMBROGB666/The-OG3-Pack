@@ -1,0 +1,332 @@
+Server Mods:
+
+[Savage & Ravage](https://modrinth.com/mod/savage-and-ravage)
+[Saturn](https://modrinth.com/mod/saturn)
+[Finally Farmable Dyes](https://modrinth.com/mod/finally-farmable-dyes)
+[Builder's Delight](https://modrinth.com/mod/builders-delight)
+[Chef's Delight](https://modrinth.com/mod/chefs-delight)
+[Fusion (Connected Textures)](https://modrinth.com/mod/fusion-connected-textures)
+[Blueprint](https://modrinth.com/mod/blueprint)
+[Geckolib](https://modrinth.com/mod/geckolib)
+[Create Slice & Dice](https://modrinth.com/mod/slice-and-dice)
+[Oh The Biomes You'll Go](https://modrinth.com/mod/biomesyougo)
+Decorative Blocks
+[YUNG's Better Desert Temples](https://modrinth.com/mod/yungs-better-desert-temples)
+[YUNG's Better Witch Huts](https://modrinth.com/mod/yungs-better-witch-huts)
+[CC:C Bridge](https://modrinth.com/mod/cccbridge)
+Citadel
+[Jade 🔍](https://modrinth.com/mod/jade)
+[Redstone Arsenal](https://modrinth.com/mod/redstone-arsenal)
+[Botarium](https://modrinth.com/mod/botarium)
+[Macaw's Fences and Walls](https://modrinth.com/mod/macaws-fences-and-walls)
+[Additional Lanterns](https://modrinth.com/mod/additional-lanterns)
+[Explorer's Compass](https://modrinth.com/mod/explorers-compass)
+[Enchanting Infuser](https://modrinth.com/mod/enchanting-infuser)
+[VillagersPlus](https://modrinth.com/mod/villagersplus)
+[Redirector](https://modrinth.com/mod/redirector)
+[Jade Addons (Forge)](https://modrinth.com/mod/jade-addons-forge)
+[Tinkers' Construct](https://modrinth.com/mod/tinkers-construct)
+Connectivity Mod
+[YUNG's Better Strongholds](https://modrinth.com/mod/yungs-better-strongholds)
+[Fast Paintings](https://modrinth.com/mod/fast-paintings)
+Pam's HarvestCraft 2 - Crops
+Vertical Slabs Compat
+[Macaw's Windows](https://modrinth.com/mod/macaws-windows)
+[Mystical Agriculture](https://modrinth.com/mod/mystical-agriculture)
+It Takes A Pillage
+FTB Teams
+[Thermal Cultivation](https://modrinth.com/mod/thermal-cultivation)
+[YUNG's API](https://modrinth.com/mod/yungs-api)
+[CoroUtil](https://modrinth.com/mod/coroutil)
+[Iceberg](https://modrinth.com/mod/iceberg)
+[Architectury API](https://modrinth.com/mod/architectury-api)
+LazyDFU
+JeiTweaker
+[YUNG's Better Ocean Monuments](https://modrinth.com/mod/yungs-better-ocean-monuments)
+[CodeChicken Lib](https://modrinth.com/mod/codechicken-lib)
+[Easy Anvils](https://modrinth.com/mod/easy-anvils)
+recipeessentials mod
+RFToolsStorage
+[Personality](https://modrinth.com/mod/personality!)
+[Enderman Overhaul](https://modrinth.com/mod/enderman-overhaul)
+[YUNG's Better Dungeons](https://modrinth.com/mod/yungs-better-dungeons)
+[Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails)
+[Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)
+[Botania](https://modrinth.com/mod/botania)
+[Macaw's Trapdoors](https://modrinth.com/mod/macaws-trapdoors)
+[Art of Forging: A Tetra Addon](https://modrinth.com/mod/art-of-forging-tetra)
+[ZeroCore](https://modrinth.com/mod/zerocore)
+[Thermal Dynamics](https://modrinth.com/mod/thermal-dynamics)
+[Construction Wand](https://modrinth.com/mod/construction-wand)
+[Smooth Boot (Reloaded)](https://modrinth.com/mod/smooth-boot-reloaded)
+[Cultural Delights](https://modrinth.com/mod/cultural-delights)
+[Vein Mining](https://modrinth.com/mod/vein-mining)
+[Better Tridents](https://modrinth.com/mod/better-tridents)
+[Not Enough Recipe Book [NERB]](https://modrinth.com/mod/nerb)
+[Visual Workbench](https://modrinth.com/mod/visual-workbench)
+[Macaw's Roofs - Oh The Biomes You'll Go](https://modrinth.com/mod/macaws-roofs-oh-the-biomes-youll-go)
+Simple Storage Network
+Just Enough Items
+Dungeon Crawl
+[Resourceful Config](https://modrinth.com/mod/resourceful-config)
+[Melody](https://modrinth.com/mod/melody)
+[Paxi](https://modrinth.com/mod/paxi)
+Iron Chests
+Placebo
+Boat Break Fix
+[Incubation](https://modrinth.com/mod/incubation)
+[Hearths](https://modrinth.com/mod/hearths)
+Iron Furnaces
+MmmMmmMmmmmm
+CreateTweaker
+Regrowth
+[Weapon Damage and Coldown Modifier](https://modrinth.com/mod/weapon-damage-and-coldown-modifier)
+Ice and Fire
+Epic Knights Mod
+RFToolsPower
+[Death Counter](https://modrinth.com/mod/death-counter-ichun)
+[Mantle](https://modrinth.com/mod/mantle)
+Applied Energistics 2
+[Unusual End](https://modrinth.com/mod/unusual_end)
+[McJtyLib](https://modrinth.com/mod/mcjtylib)
+[Woodworks](https://modrinth.com/mod/woodworks)
+Fast Workbench
+[Sculked](https://modrinth.com/mod/sculked)
+[Nullscape](https://modrinth.com/mod/nullscape)
+[CoFH Core](https://modrinth.com/mod/cofh-core)
+[Just Enough Professions (JEP)](https://modrinth.com/mod/just-enough-professions-jep)
+[Item Obliterator](https://modrinth.com/mod/item-obliterator)
+[Mekanism](https://modrinth.com/mod/mekanism)
+FTB Library
+[Twigs](https://modrinth.com/mod/twigs)
+[Dynamic Asset Generator](https://modrinth.com/mod/dynamic_asset_generator)
+[Rotten Creatures](https://modrinth.com/mod/rottencreatures)
+DespawnTweaker
+[Display Case](https://modrinth.com/mod/displaycase)
+[Collective](https://modrinth.com/mod/collective)
+[SuperMartijn642's Config Lib](https://modrinth.com/mod/supermartijn642s-config-lib)
+DEUF - Duplicate Entity UUID Fix
+[Bad Wither No Cookie - Reloaded](https://modrinth.com/mod/bad-wither-no-cookie)
+[ModernFix](https://modrinth.com/mod/modernfix)
+Create Deco
+Moonlight Library
+[Obscure API](https://modrinth.com/mod/obscure-api)
+Windswept
+ManyIdeas Doors
+[Quark Oddities](https://modrinth.com/mod/quark-oddities)
+[Upgraded Netherite : Ultimerite](https://modrinth.com/mod/upgraded-netherite-ultimerite)
+[Atmospheric](https://modrinth.com/mod/atmospheric)
+Structure Essentials mod
+[Environmental](https://modrinth.com/mod/environmental)
+[Handcrafted](https://modrinth.com/mod/handcrafted)
+Create Crafts & Additions
+[Fastload](https://modrinth.com/mod/fastload)
+[Upgraded Core](https://modrinth.com/mod/upgraded-core)
+Dynamic Electricity
+RFToolsBuilder
+Orva Alarms
+[Mekanism Generators](https://modrinth.com/mod/mekanism-generators)
+[Extreme Reactors](https://modrinth.com/mod/extreme-reactors)
+[Trash Cans](https://modrinth.com/mod/trash-cans)
+[The Conjurer](https://modrinth.com/mod/the-conjurer)
+Elytra Slot
+[Dark Paintings](https://modrinth.com/mod/dark-paintings)
+[The Pale Hound](https://modrinth.com/mod/pale-hound)
+[Thermal Expansion](https://modrinth.com/mod/thermal-expansion)
+SwingThroughGrass
+[Ender Storage](https://modrinth.com/mod/ender-storage)
+[Starlight (Forge)](https://modrinth.com/mod/starlight-forge)
+[[Let's Do] API](https://modrinth.com/mod/do-api)
+[CreativeCore](https://modrinth.com/mod/creativecore)
+[The One Who Watches](https://modrinth.com/mod/the-one-who-watches)
+[Hunter's Return](https://modrinth.com/mod/hunters-return)
+AttributeFix
+Immersive Weathering
+[Puzzles Lib](https://modrinth.com/mod/puzzles-lib)
+[Konkrete](https://modrinth.com/mod/konkrete)
+[Chipped](https://modrinth.com/mod/chipped)
+Nether's Delight
+[Gardens of the Dead](https://modrinth.com/mod/gardens-of-the-dead)
+JER Integration
+Delightful
+[YUNG's Better Mineshafts](https://modrinth.com/mod/yungs-better-mineshafts)
+Balm
+Create Recycling
+Titanium
+KleeSlabs
+Structory
+[Polymorph](https://modrinth.com/mod/polymorph)
+Locksmith
+The Twilight Forest
+Pollen
+[Macaw's Bridges - Oh The Biomes You'll Go](https://modrinth.com/mod/macaws-bridges-oh-the-biomes-youll-go)
+Structory: Towers
+Whisperwoods
+[Neapolitan](https://modrinth.com/mod/neapolitan)
+[Explorify](https://modrinth.com/mod/explorify)
+[playerAnimator](https://modrinth.com/mod/playeranimator)
+[Alternate Current](https://modrinth.com/mod/alternate-current)
+[Friends&Foes (Forge/NeoForge)](https://modrinth.com/mod/friends-and-foes-forge)
+[Ad Astra](https://modrinth.com/mod/ad-astra)
+Bocchium
+CC: Tweaked
+[Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat)
+Cherished Worlds
+[Ecologics](https://modrinth.com/mod/ecologics)
+[Packet Fixer](https://modrinth.com/mod/packet-fixer)
+[FerriteCore](https://modrinth.com/mod/ferrite-core)
+[Clayworks](https://modrinth.com/mod/clayworks)
+[Quark](https://modrinth.com/mod/quark)
+[Iron Ender Chests](https://modrinth.com/mod/iron-ender-chests)
+Curios API
+[Macaw's Doors](https://modrinth.com/mod/macaws-doors)
+[Mekanism Tools](https://modrinth.com/mod/mekanism-tools)
+[Carpeted Stairs & Slabs](https://modrinth.com/mod/carpeted-stairs)
+[Diagonal Fences](https://modrinth.com/mod/diagonal-fences)
+[Death Backup](https://modrinth.com/mod/death-backup)
+[Farmer's Delight](https://modrinth.com/mod/farmers-delight)
+[AI Improvements](https://modrinth.com/mod/ai-improvements)
+[Clumps](https://modrinth.com/mod/clumps)
+[Thermal Integration](https://modrinth.com/mod/thermal-integration)
+[Snow Under Trees](https://modrinth.com/mod/snow-under-trees)
+[Diagonal Windows](https://modrinth.com/mod/diagonal-windows)
+[Nether Chested](https://modrinth.com/mod/new-nether-chest)
+[L_Ender's Cataclysm](https://modrinth.com/mod/l_enders-cataclysm)
+[In Control!](https://modrinth.com/mod/in-control)
+[Alex's Mobs](https://modrinth.com/mod/alexs-mobs)
+[Cucumber Library](https://modrinth.com/mod/cucumber)
+[Thermal Innovation](https://modrinth.com/mod/thermal-innovation)
+Geophilic
+Zombie Awareness
+[ObsidianUI](https://modrinth.com/mod/obsidianui)
+Simple Planes
+[XP Tome](https://modrinth.com/mod/xp-tome)
+[Ice and Fire: Spellbooks](https://modrinth.com/mod/ice-and-fire-spellbooks)
+[Applied Mekanistics](https://modrinth.com/mod/applied-mekanistics)
+[mutil](https://modrinth.com/mod/mutil)
+[Biomancy](https://modrinth.com/mod/biomancy)
+Backpacked
+Bakery
+[AutoRegLib](https://modrinth.com/mod/autoreglib)
+RFToolsUtility
+[Nature's Compass](https://modrinth.com/mod/natures-compass)
+[No Chat Reports](https://modrinth.com/mod/no-chat-reports)
+[Easy Magic](https://modrinth.com/mod/easy-magic)
+[Caelus API](https://modrinth.com/mod/caelus)
+[ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/ct-overhaul-village)
+[Ballistix](https://modrinth.com/mod/ballistix)
+NetherPortalFix
+Fast Suite
+Sound Physics Remastered
+[Macaw's Roofs](https://modrinth.com/mod/macaws-roofs)
+[Create](https://modrinth.com/mod/create)
+[Thermal Locomotion](https://modrinth.com/mod/thermal-locomotion)
+[Every Compat (Wood Good)](https://modrinth.com/mod/every-compat)
+[ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
+Smoothchunk mod
+[Mystical Agradditions](https://modrinth.com/mod/mystical-agradditions)
+RevampedWolf
+Hexerei
+MrCrayfish's Furniture Mod
+[Just Another Rotten Flesh to Leather Mod](https://modrinth.com/mod/jrftl)
+[Create: Bells & Whistles](https://modrinth.com/mod/bellsandwhistles)
+[Neruina - Ticking Entity Fixer](https://modrinth.com/mod/neruina)
+[Electrodynamics](https://modrinth.com/mod/electrodynamics)
+FastFurnace
+Raided
+[Comforts](https://modrinth.com/mod/comforts)
+CraftTweaker
+[SecurityCraft](https://modrinth.com/mod/security-craft)
+[Rechiseled](https://modrinth.com/mod/rechiseled)
+[Infusion Table](https://modrinth.com/mod/infusion-table)
+[Abnormals Delight](https://modrinth.com/mod/abnormals-delight)
+[Load My F***ing Tags](https://modrinth.com/mod/lmft)
+[Create Stuff & Additions](https://modrinth.com/mod/create-stuff-additions)
+[Macaw's Fences - Oh The Biomes You'll Go](https://modrinth.com/mod/macaws-fences-oh-the-biomes-youll-go)
+[Walkie-Talkie](https://modrinth.com/mod/walkie-talkie)
+[Stoneworks](https://modrinth.com/mod/stoneworks)
+[Upgrade Aquatic](https://modrinth.com/mod/upgrade-aquatic)
+'Dustrial Decor
+Journeymap
+Dusk Mod
+[Carry On](https://modrinth.com/mod/carry-on)
+[Guard Villagers](https://modrinth.com/mod/guard-villagers)
+Night Config Fixes
+[Structure Gel API](https://modrinth.com/mod/structure-gel-api)
+Skinned Lanterns
+[Cloth Config API](https://modrinth.com/mod/cloth-config)
+[Necronomicon API](https://modrinth.com/mod/necronomicon)
+[Item Filters](https://modrinth.com/mod/item-filters)
+[Kiwi 🥝](https://modrinth.com/mod/kiwi)
+[Starter Kit](https://modrinth.com/mod/starter-kit)
+[Macaw's Paths and Pavings](https://modrinth.com/mod/macaws-paths-and-pavings)
+[Simple Backups](https://modrinth.com/mod/simple-backups)
+chisels-and-bits
+Similsax Transtructors - Builder's Wands
+Goblin Traders
+RFToolsBase
+[Lionfish-API](https://modrinth.com/mod/lionfish-api)
+Pyromancer
+[Upgraded Netherite](https://modrinth.com/mod/upgraded-netherite)
+[spark](https://modrinth.com/mod/spark)
+[Smarter Farmers (farmers replant)](https://modrinth.com/mod/smarter-farmers-farmers-replant)
+[ Server Tab Info](https://modrinth.com/mod/server-tab-info)
+[Macaw's Bridges](https://modrinth.com/mod/macaws-bridges)
+ManyIdeas Core
+Lootintegrations mod
+[Shield Expansion](https://modrinth.com/mod/shield-expansion)
+Cupboard utilities
+[HT's TreeChop](https://modrinth.com/mod/treechop)
+PneumaticCraft: Repressurized
+[Leaves Be Gone](https://modrinth.com/mod/leaves-be-gone)
+[Excavated Variants](https://modrinth.com/mod/excavated_variants)
+[Nuclear Science](https://modrinth.com/mod/nuclear-science)
+[Incendium](https://modrinth.com/mod/incendium)
+Industrial Foregoing
+[Thermal Foundation](https://modrinth.com/mod/thermal-foundation)
+[Magnum Torch](https://modrinth.com/mod/magnum-torch)
+Additional Lights
+FTB Quests
+[Old Combat Mod](https://modrinth.com/mod/old-combat-mod)
+Paintings ++
+[Bookshelf](https://modrinth.com/mod/bookshelf-lib)
+[CorgiLib](https://modrinth.com/mod/corgilib)
+[SuperMartijn642's Core Lib](https://modrinth.com/mod/supermartijn642s-core-lib)
+[Spirit](https://modrinth.com/mod/spirit)
+[Just Enough Resources (JER)](https://modrinth.com/mod/just-enough-resources-jer)
+[Abundant Atmosphere](https://modrinth.com/mod/abundant-atmosphere)
+Flux Networks
+[Configured Defaults](https://modrinth.com/mod/configured-defaults)
+[Exposure](https://modrinth.com/mod/exposure)
+Archaelogy API
+[Mekanism Additions](https://modrinth.com/mod/mekanism-additions)
+[Hourglass](https://modrinth.com/mod/hourglass)
+[TerraBlender](https://modrinth.com/mod/terrablender)
+CookingForBlockheads
+[Supplementaries](https://modrinth.com/mod/supplementaries)
+Corpse
+Iron's Spells 'n Spellbooks
+[Canary](https://modrinth.com/mod/canary)
+[JAOPCA](https://modrinth.com/mod/jaopca)
+[YUNG's Better Nether Fortresses](https://modrinth.com/mod/yungs-better-nether-fortresses)
+Red Power
+[Kotlin for Forge](https://modrinth.com/mod/kotlin-for-forge)
+[Snow! Real Magic! ⛄](https://modrinth.com/mod/snow-real-magic)
+[Resourceful Lib](https://modrinth.com/mod/resourceful-lib)
+ConnectedTexturesMod
+[Another Furniture](https://modrinth.com/mod/another-furniture)
+Recipes Library
+Grass Overhaul (Sod)
+[Creeper Overhaul](https://modrinth.com/mod/creeper-overhaul)
+[[Let's Do] Candlelight](https://modrinth.com/mod/lets-do-candlelight)
+[Wormhole (Portals)](https://modrinth.com/mod/wormhole)
+Supplementaries Squared
+[YUNG's Bridges](https://modrinth.com/mod/yungs-bridges)
+[Traveler's Backpack](https://modrinth.com/mod/travelersbackpack)
+[Immersive Engineering](https://modrinth.com/mod/immersiveengineering)
+[Terralith](https://modrinth.com/mod/terralith)
+Debugify Reforged
+Waystones
+Pam's HarvestCraft 2 - Food Core
+[Patchouli](https://modrinth.com/mod/patchouli)
+[tetra](https://modrinth.com/mod/tetra)

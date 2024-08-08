@@ -12,7 +12,7 @@ menu_blacklist = ["hexerei:*", "corpse:*", "ad_astra:*", "mekanism:*", "mekanism
 #Begin with a namespace or skip namespace to apply to all namespaces.
 #Begin with '!' to exclude matches, list those exclusions after entries that would otherwise include them.
 paths = ["textures/gui/*", "!minecraft:textures/gui/icons.png", "!jei:textures/*", "!minecraft:textures/gui/accessibility.png", "!minecraft:textures/gui/world_selection.png", "!minecraft:textures/gui/resource_packs.png", "!minecraft:textures/gui/server_selection.png", "!minecraft:textures/gui/checkbox.png", "!minecraft:textures/gui/widgets.png", "!minecraft:textures/item/*", "!minecraft:textures/map/*", "!minecraft:textures/gui/advancements/*", "!minecraft:textures/gui/toasts.png", "!minecraft:textures/gui/bars.png", "!minecraft:textures/gui/book.png", "!minecraft:textures/gui/options_background.png", "textures/gui/container/*", "!minecraft:textures/gui/container/stats_icons.png", "!minecraft:textures/gui/container/creative_inventory/*", "!craftingtweaks:gui.png", "!ae2:textures/*", "!immersiveengineering:textures/gui/*", "!mekanism:*", "!mekanismgenerators:gui/*", "!polymorph:textures/gui/widgets.png", "!tconstruct:textures/gui/*"]
-dark_theme = false
+dark_theme = true
 #Percentage of original interface brightness to apply.
 #Range: 0.0 ~ 1.0
 texture_darkness = 0.6
